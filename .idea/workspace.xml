@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="432fb542-4dd8-4657-9510-721e58129d53" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k2lfjdYtp586rgzUhqLwWkrM6v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\19324\Documents\1117\HW5GC" />
+      <recent name="C:\Users\19324\Documents\1117\HW5GC\capture" />
+      <recent name="C:\Users\19324\Documents\1117\HW5GC\thriftfile" />
+      <recent name="C:\Users\19324\Documents\1117\HW5GC\UEinfo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\19324\Documents\1117\HW5GC" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.UE_feature_thrift_remote (1)">
+    <configuration name="UE_feature_thrift (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HW5GC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UEfeature" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UEfeature/UE_feature_thrift.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UE_feature_thrift" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HW5GC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UEinfo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UEinfo/UE_feature_thrift.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UE_feature_thrift_remote (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HW5GC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UEfeature" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UEfeature/UE_feature_thrift_remote.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UE_feature_thrift_remote" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HW5GC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UEinfo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UEinfo/UE_feature_thrift_remote.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nfscan_local" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HW5GC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nfscan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nfscan/nfscan_local.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.UE_feature_thrift_remote (1)" />
+        <item itemvalue="Python.UE_feature_thrift (1)" />
+        <item itemvalue="Python.nfscan_local" />
+        <item itemvalue="Python.UE_feature_thrift_remote" />
+        <item itemvalue="Python.UE_feature_thrift" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="432fb542-4dd8-4657-9510-721e58129d53" name="Default Changelist" comment="" />
+      <created>1604906672951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604906672951</updated>
+      <workItem from="1604906674335" duration="1386000" />
+      <workItem from="1605361248556" duration="28000" />
+      <workItem from="1611727886758" duration="98000" />
+      <workItem from="1614128443296" duration="23116000" />
+      <workItem from="1614240512916" duration="2085000" />
+      <workItem from="1614244549138" duration="54772000" />
+      <workItem from="1616031426722" duration="4895000" />
+      <workItem from="1616049563666" duration="1197000" />
+      <workItem from="1616116154568" duration="5625000" />
+      <workItem from="1616122181047" duration="3476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="493" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616121398644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="493" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/-152.-1440.2560.1400@0.0.1536.824" timestamp="1616121398644" />
+    <state x="493" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1615338657439" />
+    <state width="1493" height="370" key="GridCell.Tab.0.bottom" timestamp="1616121940195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="2517" height="242" key="GridCell.Tab.0.bottom/0.0.1536.824/-152.-1440.2560.1400@-152.-1440.2560.1400" timestamp="1616036725092" />
+    <state width="1493" height="370" key="GridCell.Tab.0.bottom/0.0.1536.824/-152.-1440.2560.1400@0.0.1536.824" timestamp="1616121940195" />
+    <state width="1493" height="248" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615341116437" />
+    <state width="1493" height="370" key="GridCell.Tab.0.center" timestamp="1616121940195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="2517" height="242" key="GridCell.Tab.0.center/0.0.1536.824/-152.-1440.2560.1400@-152.-1440.2560.1400" timestamp="1616036725092" />
+    <state width="1493" height="370" key="GridCell.Tab.0.center/0.0.1536.824/-152.-1440.2560.1400@0.0.1536.824" timestamp="1616121940195" />
+    <state width="1493" height="248" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1615341116436" />
+    <state width="1493" height="370" key="GridCell.Tab.0.left" timestamp="1616121940195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="2517" height="242" key="GridCell.Tab.0.left/0.0.1536.824/-152.-1440.2560.1400@-152.-1440.2560.1400" timestamp="1616036725091" />
+    <state width="1493" height="370" key="GridCell.Tab.0.left/0.0.1536.824/-152.-1440.2560.1400@0.0.1536.824" timestamp="1616121940195" />
+    <state width="1493" height="248" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1615341116436" />
+    <state width="1493" height="370" key="GridCell.Tab.0.right" timestamp="1616121940195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="2517" height="242" key="GridCell.Tab.0.right/0.0.1536.824/-152.-1440.2560.1400@-152.-1440.2560.1400" timestamp="1616036725092" />
+    <state width="1493" height="370" key="GridCell.Tab.0.right/0.0.1536.824/-152.-1440.2560.1400@0.0.1536.824" timestamp="1616121940195" />
+    <state width="1493" height="248" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1615341116437" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1614240463990">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1614240463990" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1616118623043">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-152.-1440.2560.1400@0.0.1536.824" timestamp="1616118623043" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1615356398601" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HW5GC$nfscan_local.coverage" NAME="nfscan_local Coverage Results" MODIFIED="1616121666441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nfscan" />
+    <SUITE FILE_PATH="coverage/HW5GC$UE_feature_thrift__1_.coverage" NAME="UE_feature_thrift (1) Coverage Results" MODIFIED="1616121892632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UEfeature" />
+    <SUITE FILE_PATH="coverage/HW5GC$UE_feature_thrift_remote__1_.coverage" NAME="UE_feature_thrift_remote (1) Coverage Results" MODIFIED="1616121897534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UEfeature" />
+    <SUITE FILE_PATH="coverage/HW5GC$UE_feature_thrift.coverage" NAME="UE_feature_thrift Coverage Results" MODIFIED="1616121361151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UEinfo" />
+    <SUITE FILE_PATH="coverage/HW5GC$test.coverage" NAME="test Coverage Results" MODIFIED="1604906753761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/capture" />
+    <SUITE FILE_PATH="coverage/HW5GC$json_to_sql.coverage" NAME="json_to_sql Coverage Results" MODIFIED="1614139467838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HW5GC$sklearn_cluster.coverage" NAME="sklearn_cluster Coverage Results" MODIFIED="1614825440801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HW5GC$UE_feature.coverage" NAME="UE_feature Coverage Results" MODIFIED="1614939965121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UEinfo" />
+    <SUITE FILE_PATH="coverage/HW5GC$sklearn.coverage" NAME="sklearn Coverage Results" MODIFIED="1614240401313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HW5GC$sklearn_svm.coverage" NAME="sklearn_svm Coverage Results" MODIFIED="1616118142351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HW5GC$sql_to_sql.coverage" NAME="sql_to_sql Coverage Results" MODIFIED="1614235074336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HW5GC$sklearn_lr.coverage" NAME="sklearn_lr Coverage Results" MODIFIED="1614929965197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HW5GC$UE_feature_thrift_remote.coverage" NAME="UE_feature_thrift_remote Coverage Results" MODIFIED="1616121364098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UEinfo" />
+    <SUITE FILE_PATH="coverage/HW5GC$sql_to_sql2.coverage" NAME="sql_to_sql2 Coverage Results" MODIFIED="1614584650129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HW5GC$lstm_seq.coverage" NAME="lstm_seq Coverage Results" MODIFIED="1614239773315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
